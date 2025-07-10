@@ -1,0 +1,9 @@
+__pycache__
+.vscode
+.DS_Store
+data/precompute
+storage/
+logs/
+results/
+weights/
+work_dir/
